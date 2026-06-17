@@ -64,7 +64,6 @@ Also in the rotation: `Jira` `Postman` `Swagger` `Keycloak` `MinIO` `MariaDB` `S
 
 ## 🌱 Currently Exploring
 
-- 🐘 Migrating Redis client layers from **Jedis to Lettuce** for better connection pool handling under load
 - 🧩 **Spring Boot microservices** for multi-tenant, schema-per-tenant SaaS architecture
 - 📱 **Kotlin Multiplatform** as a complement to Flutter for cross-platform mobile work
 - 🔔 **FCM push notification deep linking** across cold/warm/background app states
